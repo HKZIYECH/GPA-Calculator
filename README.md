@@ -11,7 +11,7 @@
 
 - 🌱 Using multiple **Values and Data Types**
 
-- 👯 Suitable for **Andinet International School Highschool Students**
+- 👯 Suitable for **Andinet International Highschool Students**
 
 - 🤝 Easy to **Use**
 
